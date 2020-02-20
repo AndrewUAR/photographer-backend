@@ -1,0 +1,2 @@
+module PhotographerCategoriesHelper
+end
